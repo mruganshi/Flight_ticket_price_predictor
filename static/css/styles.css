@@ -1,0 +1,31 @@
+body {
+    /* background-color: #e1f4f3; */
+    /* background-image: url("https://www.freepik.com/free-photo/planes-runway_1120293.htm#page=2&query=flight%20background&position=39&from_view=search"); */
+    text-align: center;
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+  footer {
+    text-align: center;
+    padding: 7px;
+    background-color: rgb(6, 6, 6);
+    color: white;
+  }
